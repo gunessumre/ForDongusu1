@@ -32,11 +32,22 @@ for (j = 1; j <= 20; j++)
  Console.WriteLine("Toplam: "+toplam);
  
  //5 -> 1 ile 120 arasındaki tek ve çift sayıların toplamlarını ayrı ayrı ekrana yazdırınız.
- 
+ //Tek sayilar
  int n;
  int toplam1=0;
- for (n = 50; n <= 150; n += 2)
+ for (n =1 ; n <= 120; n += 2)
  {
      toplam1 = toplam1 + n;
  }
  Console.WriteLine("Toplam1: "+toplam1);
+//cift sayilar
+int n;
+ int toplam2=0;
+ for (n =2 ; n <= 120; n += 2)
+ {
+     toplam2 = toplam2 + n;
+ }
+ Console.WriteLine("Toplam2: "+toplam2);
+
+
+

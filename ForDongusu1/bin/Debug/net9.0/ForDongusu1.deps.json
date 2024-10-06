@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ForDongusu1/1.0.0": {
+        "runtime": {
+          "ForDongusu1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ForDongusu1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

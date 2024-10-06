@@ -1,0 +1,14 @@
+/Users/gunessumre/RiderProjects/UmreGunes/ForDongusu1/ForDongusu1/bin/Debug/net9.0/ForDongusu1
+/Users/gunessumre/RiderProjects/UmreGunes/ForDongusu1/ForDongusu1/bin/Debug/net9.0/ForDongusu1.deps.json
+/Users/gunessumre/RiderProjects/UmreGunes/ForDongusu1/ForDongusu1/bin/Debug/net9.0/ForDongusu1.runtimeconfig.json
+/Users/gunessumre/RiderProjects/UmreGunes/ForDongusu1/ForDongusu1/bin/Debug/net9.0/ForDongusu1.dll
+/Users/gunessumre/RiderProjects/UmreGunes/ForDongusu1/ForDongusu1/bin/Debug/net9.0/ForDongusu1.pdb
+/Users/gunessumre/RiderProjects/UmreGunes/ForDongusu1/ForDongusu1/obj/Debug/net9.0/ForDongusu1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gunessumre/RiderProjects/UmreGunes/ForDongusu1/ForDongusu1/obj/Debug/net9.0/ForDongusu1.AssemblyInfoInputs.cache
+/Users/gunessumre/RiderProjects/UmreGunes/ForDongusu1/ForDongusu1/obj/Debug/net9.0/ForDongusu1.AssemblyInfo.cs
+/Users/gunessumre/RiderProjects/UmreGunes/ForDongusu1/ForDongusu1/obj/Debug/net9.0/ForDongusu1.csproj.CoreCompileInputs.cache
+/Users/gunessumre/RiderProjects/UmreGunes/ForDongusu1/ForDongusu1/obj/Debug/net9.0/ForDongusu1.dll
+/Users/gunessumre/RiderProjects/UmreGunes/ForDongusu1/ForDongusu1/obj/Debug/net9.0/refint/ForDongusu1.dll
+/Users/gunessumre/RiderProjects/UmreGunes/ForDongusu1/ForDongusu1/obj/Debug/net9.0/ForDongusu1.pdb
+/Users/gunessumre/RiderProjects/UmreGunes/ForDongusu1/ForDongusu1/obj/Debug/net9.0/ForDongusu1.genruntimeconfig.cache
+/Users/gunessumre/RiderProjects/UmreGunes/ForDongusu1/ForDongusu1/obj/Debug/net9.0/ref/ForDongusu1.dll
